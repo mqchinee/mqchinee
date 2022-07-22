@@ -14,6 +14,6 @@ sys.exit()
 console.log('FrogScript')
 ```
 
-- [ ] Batch Commands
+- [x] Batch Commands
 
-- [ ] Emu
+- [x] Emu
