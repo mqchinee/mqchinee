@@ -34,6 +34,32 @@ sys.exit()
 ```js
 console.log('FrogScript')
 ```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&size=50&duration=2000&color=F7F7F7&background=44FF6E00&vCenter=true&height=70&lines=%3C%2Frepositories%3E)](https://git.io/typing-svg)
+
+### BOTS
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mqchinee&repo=pc-control-tg-bot)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mqchinee&repo=gtts-telebot)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mqchinee&repo=green-vk-bot)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mqchinee&repo=leafy-discord-bot)]()
+
+### PACKAGES
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mqchinee&repo=rzhupy)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mqchinee&repo=askmagic)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mqchinee&repo=ytquery)]()
+
+### .EXE
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mqchinee&repo=mqchinees-toolkit)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mqchinee&repo=pc-control-tg-exe)]()
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mqchinee&repo=vc-launcher)]()
+
+### .BAT
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mqchinee&repo=aliases)]()
+
+### SITES
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mqchinee&repo=mqchinee.github.io)]()
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mqchinee&repo=randomvc.github.io)]()
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&size=50&duration=2000&color=F7F7F7&background=44FF6E00&vCenter=true&height=70&lines=%3C%2Fpage_stats%3E)](https://git.io/typing-svg)
 
