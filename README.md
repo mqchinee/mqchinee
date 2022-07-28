@@ -1,4 +1,4 @@
-<img src="canvas.png" alt="mqchinee-banner">
+<img src="banner.png" alt="mqchinee-banner">
 
 ```python
 import sys
