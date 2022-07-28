@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/96006818/181552170-4cf37001-27fa-4e75-90dd-a248fd60a466.png)
+![index](https://user-images.githubusercontent.com/96006818/181552887-02a6e7ce-cb33-4c27-a865-a90372b4ec21.png)
 
 ```python
 import sys
