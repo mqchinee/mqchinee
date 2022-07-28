@@ -1,4 +1,4 @@
-<img src="banner.png" alt="banner">
+![banner](https://user-images.githubusercontent.com/96006818/181552170-4cf37001-27fa-4e75-90dd-a248fd60a466.png)
 
 ```python
 import sys
