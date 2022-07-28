@@ -1,3 +1,5 @@
+<img src="путь к файлу" alt="mqchinee-banner">
+
 ```python
 import sys
 
